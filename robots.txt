@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cloudservicesai.github.io/pseint.github.io/sitemap.xml
